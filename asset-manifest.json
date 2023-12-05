@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/niqueTaL1/static/css/main.3c06dc5f.css",
-    "main.js": "/niqueTaL1/static/js/main.15f7c6ac.js",
+    "main.js": "/niqueTaL1/static/js/main.326af17f.js",
     "static/js/787.bcfb1c8e.chunk.js": "/niqueTaL1/static/js/787.bcfb1c8e.chunk.js",
     "index.html": "/niqueTaL1/index.html",
     "main.3c06dc5f.css.map": "/niqueTaL1/static/css/main.3c06dc5f.css.map",
-    "main.15f7c6ac.js.map": "/niqueTaL1/static/js/main.15f7c6ac.js.map",
+    "main.326af17f.js.map": "/niqueTaL1/static/js/main.326af17f.js.map",
     "787.bcfb1c8e.chunk.js.map": "/niqueTaL1/static/js/787.bcfb1c8e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c06dc5f.css",
-    "static/js/main.15f7c6ac.js"
+    "static/js/main.326af17f.js"
   ]
 }
